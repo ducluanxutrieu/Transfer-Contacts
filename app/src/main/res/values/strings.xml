@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Đổi đầu số - Cập nhật danh bạ</string>
+    <string name="text_guide">Tác giả: Trần Đức Luân.\nEmail: ducluanxutrieu@gmail.com</string>
+    <string name="contacts_null">Danh bạ rỗng hoặc là bạn không chấp nhận quyền truy cập vào danh bạ, nếu chưa cấp quyền truy cập danh bạ thì bạn có thể thay đổi nó trong Cài Đặt Ứng Dụng</string>
+    <string name="introduce">Đây là ứng dụng để giúp bạn chuyển đổi đầu số cũ sang đầu số mới một cách dễ dàng hơn,\n
+    Các đầu số cũ là:\n
+        MobiFone\n
+Đầu số 0120 chuyển đổi thành 070\n
+Đầu số 0121 chuyển đổi thành 079\n
+Đầu số 0122 chuyển đổi thành 077\n
+Đầu số 0126 chuyển đổi thành 076\n
+Đầu số 0128 chuyển đổi thành 078\n
+Ví dụ thuê bao: 0128.7878.888 sẽ chuyển thành 078.7878.888\n
+\n
+VinaPhone\n
+Đầu số 0123 chuyển đổi thành 083\n
+Đầu số 0124 chuyển đổi thành 084\n
+Đầu số 0125 chuyển đổi thành 085\n
+Đầu số 0127 chuyển đổi thành 081\n
+Đầu số 0129 chuyển đổi thành 082\n
+Ví dụ thuê bao: 0129.8222.888 sẽ chuyển thành 082.8222.888\n
+\n
+Viettel\n
+Đầu số 0162 chuyển đổi thành 032\n
+Đầu số 0163 chuyển đổi thành 033\n
+Đầu số 0164 chuyển đổi thành 034\n
+Đầu số 0165 chuyển đổi thành 035\n
+Đầu số 0166 chuyển đổi thành 036\n
+Đầu số 0167 chuyển đổi thành 037\n
+Đầu số 0168 chuyển đổi thành 038\n
+Đầu số 0169 chuyển đổi thành 039\n
+Ví dụ thuê bao: 0169.9333.999 sẽ chuyển thành: 039.9333.999\n
+\n
+Vietnamobile\n
+Đầu số 0186 chuyển đổi thành 056\n
+Đầu số 0188 chuyển đổi thành 058\n
+Ví dụ thuê bao: 0188.8555.888 sẽ chuyển thành: 058.8555.888\n
+\n
+Gmobile\n
+Đầu số 0199 chuyển đổi thành 059\n
+Ví dụ thuê bao: 0199.5959.999 sẽ chuyển thành: 059.5959.999\n
+\n
+Các thuê bao di động 10 số vẫn được giữ nguyên không thay đổi.</string>
+
+    <string name="after">Trước khi chuyển đổi</string>
+    <string name="before">Sau khi chuyển đổi</string>
+    <string name="finish">Hoàn thành</string>
+    <string name="back_home">Trở về</string>
+</resources>
